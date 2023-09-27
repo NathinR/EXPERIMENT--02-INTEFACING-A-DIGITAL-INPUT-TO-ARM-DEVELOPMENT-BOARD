@@ -1,4 +1,3 @@
-
 NAME : NATHIN R
 REG.NO: 212222230090
 
@@ -25,12 +24,8 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 8. Check for execution of the output using run option
 
 
-
-
-
-
 ## STM 32 CUBE PROGRAM :
-
+```
 #include "main.h"
 #include "stdbool.h"
 void SystemClock_Config(void);
@@ -107,8 +102,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif
-
-
+```
 
 ## Output  :
 
